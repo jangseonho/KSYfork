@@ -1,3 +1,6 @@
 # KSYfork
 
-안녕하세요 저에요. 놀러오세요. https://github.com/jangseonho
+# 선호언니 fork 링크 : https://github.com/jangseonho
+
+# 허수현 fork 링크 : https://github.com/suhyeon1032/hshfork
+
